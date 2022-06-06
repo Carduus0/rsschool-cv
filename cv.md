@@ -6,11 +6,11 @@
 
 ### Contakt information
 
->Discord: 
+>Discord: Carduus0
 
 >Telegram:
 
->E-mail:
+>E-mail: s.carduus@gmail.com
 ***
 ### Brief About Muself:
 
@@ -41,7 +41,3 @@
 ### Languages:
 * Russian - Native
 * English - A2
-
-
-
-
