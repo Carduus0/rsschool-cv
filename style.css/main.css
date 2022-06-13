@@ -19,11 +19,17 @@ html {
 }
 .main-container{
    display: flex;
+   flex-direction: column;
    flex-wrap: wrap;
    background-color: rgb(225, 250, 176);
 }
 .section{
    width: 50%;
+}
+@media (max-width:768px){
+   .section {
+      width: 100%;
+   }
 }
 .container{
    display:flex;
