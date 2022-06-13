@@ -3,6 +3,7 @@ body{
 }
 .main{
    display: flex;
+   justify-content: center;
    width: 50%;
    background-color: rgb(225, 250, 176);
 }
@@ -23,7 +24,11 @@ body{
    justify-content: center;
    flex-direction: column;
 }
+.container  {
+
+}
 .container div {
+
    background-color: greenyellow;
    min-width: 50px;
 }
